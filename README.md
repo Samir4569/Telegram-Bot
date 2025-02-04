@@ -8,9 +8,11 @@ This project automates news scraping from [BBC News](https://www.bbc.com/) and s
 - 📊 **Data Processing**: Filters out duplicates and missing values using **Pandas**.  
 - 📩 **Telegram Integration**: Sends the scraped news to a Telegram chat using the **Telegram Bot API**.  
 
-### Requirements
-- Python 3.x  
-- ChromeDriver (matching Chrome version)  
-- Required Python libraries:  
+### Tools
+- Selenium  
+- BeautifulSoup 
+- Time
+- Requests 
+- Pandas   
 
   
